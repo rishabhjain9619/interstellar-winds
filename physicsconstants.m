@@ -1,0 +1,20 @@
+%everything in si units
+speedoflight=299792458;
+gravitationalconstant=6.67408*10^(-11);
+planckconstant=6.62607004*10^(-34);
+epsilonnot=  8.854187817*10^-12;
+roomtemperature=296;
+munot= 4*pi*10^-7;
+electriccharge= 1.6021766208*10^-19;
+electronmass = 9.10938356*10^-31;
+protonmass= 1.672621898*10^-27;
+neutronmass=  1.674927471*10^-27;
+avogadroconstant= 6.022140857*10^23;
+boltzmannconstant= 1.38064852*10^-23;
+gasconstant	= 8.3144598	;
+stefanboltzmannconstant = 5.670367*10^-8 ;
+wiendisplacementconstant =2.8977729*10^-3;
+gravity = 9.80665;
+atmospherepressure=101325;
+hubbleconstant=2.29*10^-18;
+speedofsound=340.29;
